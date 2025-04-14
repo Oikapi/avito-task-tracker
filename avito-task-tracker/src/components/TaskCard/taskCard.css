@@ -1,0 +1,8 @@
+.task-card {
+    cursor: pointer;
+    transition: cursor 2s ease 2s;
+  }
+  
+  .task-card:hover {
+    cursor: grab;
+  }
